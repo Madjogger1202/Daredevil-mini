@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MP34DT01")(type "KiCad")(uri "${KIPRJMOD}/library/MP34DT01.pretty")(options "")(descr ""))
+  (lib (name "INMP441")(type "KiCad")(uri "${KIPRJMOD}/library/INMP441.pretty")(options "")(descr ""))
+  (lib (name "MP23DB01HPTR")(type "KiCad")(uri "${KIPRJMOD}/library/MP23DB01HPTR.pretty")(options "")(descr ""))
+  (lib (name "W25Q16JVUXIQ")(type "KiCad")(uri "${KIPRJMOD}/library/W25Q16JVUXIQ.pretty")(options "")(descr ""))
+  (lib (name "RT6150B-33GQW")(type "KiCad")(uri "${KIPRJMOD}/library/RT6150B-33GQW.pretty")(options "")(descr ""))
+)
