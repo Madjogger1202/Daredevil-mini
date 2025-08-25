@@ -456,7 +456,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.127,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -467,16 +467,21 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "track_width": 0.127,
+        "via_diameter": 0.45,
+        "via_drill": 0.25,
         "wire_width": 6
       }
     ],
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "+1.1V": "rgb(0, 255, 255)",
+      "+3.3V": "rgb(255, 255, 0)",
+      "+5V": "rgb(255, 153, 0)",
+      "Earth": "rgb(0, 194, 194)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": []
   },
